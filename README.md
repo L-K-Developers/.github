@@ -1,4 +1,4 @@
-### Hi there 👋, Hello, we are L&K Developers
+### Hi there 👋, we are L&K Developers
 #### Official organization of L&K Developers and ScrapingCasinos
 ![Official organization of L&K Developers and ScrapingCasinos](https://avatars.githubusercontent.com/u/156212293?s=200&v=4)
 
